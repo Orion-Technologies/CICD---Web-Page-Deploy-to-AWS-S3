@@ -1,0 +1,11 @@
+{
+  "name": "mywebpagedeployaws-s3",
+  "version": "1.0.0",
+  "description": "cicd deploy",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "abel.archila@gmail.com",
+  "license": "MIT"
+}
